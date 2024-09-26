@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ai": "^3.4.4",
+    "open": "^10.1.0",
+    "openai": "^4.65.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-loader-spinner": "^6.1.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",

@@ -10,9 +10,7 @@
 - **Reset Functionality**: Easily reset the conversation to start a new topic.
 
 ## Technologies Used
-- **React**: For building the user interface.
-- **TypeScript**: For type safety and improved code maintainability.
-- **CSS**: For styling the application.
+- **OpenAI API**: Used to generate questions and provide feedback.
 
 ## Installation
 
